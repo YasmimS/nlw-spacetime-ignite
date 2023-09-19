@@ -35,6 +35,10 @@ OBS:. Se faz preciso gerar um GITHUB_ID_CLIENT através da sua API de Autentica�
 Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
 Acesse a documentação de cada projeto:
 
+:wave: ● [Backend](https://github.com/YasmimS/nlw-spacetime-ignite/blob/main/server/README.md) <br>
+:wave: ● [Web](https://github.com/YasmimS/nlw-spacetime-ignite/blob/main/web/README.md) <br>
+:wave: ● [Mobile](https://github.com/YasmimS/nlw-spacetime-ignite/blob/main/mobile/README.md) <br>
+
 ## 🛠 Principais Tecnologias
 
 - React
